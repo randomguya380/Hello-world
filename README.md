@@ -1,2 +1,3 @@
 Hello-World
-this code greets the user
+This code takes the user's name as input greets the user.
+This code is in python.
